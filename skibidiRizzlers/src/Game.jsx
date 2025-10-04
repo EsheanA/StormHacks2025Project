@@ -6,5 +6,5 @@ export default function Game() {
         <Scene> 
             <Player />
         </Scene>
-    )
+    );
 }
